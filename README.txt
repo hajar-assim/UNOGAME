@@ -1,3 +1,6 @@
+A fully functional UNO card game built with Java Swing, featuring multiplayer mode, game rules enforcement, and a classic UI experience.
+
+
 # Uno Flip Card Game
 # SYSC 3110
 # Dr. Wafa Hasanain - Carleton University, Department of Systems and Computer Engineering.
